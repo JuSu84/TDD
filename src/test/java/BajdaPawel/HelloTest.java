@@ -8,6 +8,7 @@ class HelloTest {
 
 
 @Test
-    public void testSayHallo(){}
+    public void
+testSayHallo(){}
 
 }

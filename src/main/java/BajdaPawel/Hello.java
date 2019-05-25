@@ -1,4 +1,4 @@
 package BajdaPawel;
 
-public class Hello {
+public class Hello{
 }
